@@ -1,2 +1,2 @@
 # opencopter-flightcontroller
-OpenCopter controller board firmware forked from ArduCopter V3.2.1 
+OpenCopter controller board firmware forked from ArduCopter v3.2.1 
